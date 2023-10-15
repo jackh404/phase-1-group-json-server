@@ -14,7 +14,7 @@
       "manufacturer" : "Grand Design",
       "line"         : "Imagine",
       "model"        : "2670MK",
-      "layoutPic"    : "https://www.granddesignrv.com/content/dam/grand-design-rv/en/master-files/graphics/floorplans/imagine/web/2670MK.png",
+      "layoutPic"    : "./local/2670MK.png",
       "length"       : 32,
       "slides"       : 2
     }
