@@ -7,7 +7,9 @@
       "model"        : "8332SB",
       "layoutPic"    : "https://cdn1.rvtrader.com/v1/media/636f6058743b1d3ef556bdf3.jpg",
       "length"       : 36,
-      "slides"       : 3
+      "slides"       : 3,
+      "upVotes"      : 0,
+      "downVotes"    : 0
     },
     {
       "id"           : 2,
@@ -16,7 +18,9 @@
       "model"        : "2670MK",
       "layoutPic"    : "./local/2670MK.png",
       "length"       : 32,
-      "slides"       : 2
+      "slides"       : 2,
+      "upVotes"      : 0,
+      "downVotes"    : 0
     }
   ]
 }
