@@ -41,19 +41,19 @@
       "line"         : "Imagine",
       "model"        : "2670MK",
       "source"       : "https://www.granddesignrv.com/travel-trailers/imagine/2670mk",
-      "layoutPic"    : "https://www.granddesignrv.com/content/dam/grand-design-rv/en/master-files/graphics/floorplans/imagine/web/2670MK.png",
+      "layoutPic"    : "https://github.com/jackh404/best-camper-layouts/blob/main/local/2670MK.png",
       "slideShowPics":
       [
         {
-          "src":"https://www.granddesignrv.com/content/dam/grand-design-rv/en/master-files/photos/interior/imagine/2670mk/web/2670MK-B2F-web.jpg",
+          "src":"https://github.com/jackh404/best-camper-layouts/blob/main/local/2670MK-B2F-web.jpg",
           "alt":"kitchen/living room facing forward"
         },
         {
-          "src":"https://www.granddesignrv.com/content/dam/grand-design-rv/en/master-files/photos/interior/imagine/2670mk/web/2670MK-Bathroom-web.jpg",
+          "src":"https://github.com/jackh404/best-camper-layouts/blob/main/local/2670MK-Bathroom-web.jpg",
           "alt":"bathroom"
         },
         {
-          "src":"https://www.granddesignrv.com/content/dam/grand-design-rv/en/master-files/photos/interior/imagine/2670mk/web/2670MK-Bedroom-web.jpg",
+          "src":"https://github.com/jackh404/best-camper-layouts/blob/main/local/2670MK-Bedroom-web.jpg",
           "alt":"bedroom"
         }
       ],
